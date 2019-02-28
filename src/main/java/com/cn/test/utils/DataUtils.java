@@ -7,7 +7,7 @@ public class DataUtils {
 		System.out.println("hello,git");
 		System.out.println("hello,git2");
 		System.out.println("hello,github1");
-                System.out.println("hello,github2");
+        System.out.println("hello,github2");
 	}
 
 }
